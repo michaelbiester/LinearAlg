@@ -184,7 +184,7 @@ Principal component analysis.
 
 derivation maximising the variance
 
-[pca_analysis.pdf]([ca_analysis.pdf)
+[pca_analysis.pdf](pca_analysis.pdf)
 
 ---
 
