@@ -30,7 +30,7 @@ I am interested in applications which rely heavily on a fairly solid understandi
 
 a short / incomplete review of derivatives of a single variables. 
 
-[/calculus_derivatives_1D.pdf]
+[a relative link](calculus_derivatives_1D.pdf)
 
 ---
 
