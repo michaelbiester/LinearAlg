@@ -30,7 +30,7 @@ I am interested in applications which rely heavily on a fairly solid understandi
 
 a short / incomplete review of derivatives of a single variables. 
 
-[!](calculus_derivatives_1D.pdf)
+[calculus_derivatives_1D.pdf](calculus_derivatives_1D.pdf)
 
 ---
 
@@ -40,7 +40,7 @@ reviews the concept of mean value and variance for the 1D case.
 
 extends the concept to the multivariate case
 
-[covariance_matrix.pdf]
+[covariance_matrix.pdf](covariance_matrix.pdf)
 
 ---
 
@@ -52,7 +52,7 @@ the eigendecomposition of a square matrix
 
 the special case of the eigendecomposition of a real symmetric matrix.
 
-[eigenvalues.pdf]
+[eigenvalues.pdf](eigenvalues.pdf)
 
 ---
 
@@ -60,7 +60,7 @@ the special case of the eigendecomposition of a real symmetric matrix.
 
 discusses `Gauss-Jordan` method to transform matrices.
 
-[gauss_jordan_elimination.pdf]
+[gauss_jordan_elimination.pdf](gauss_jordan_elimination.pdf)
 
 ---
 
@@ -70,7 +70,7 @@ short review of least squares solution of a matrix equation
 
 keywords: normal equation, left matrix inverse
 
-[least_sqares_solutions.pdf]
+[least_sqares_solutions.pdf](least_sqares_solutions.pdf)
 
 ---
 
@@ -84,7 +84,7 @@ iterative method to solve a matrix equation:
 
 2) conjugate gradient
 
-[least_squares_problems_1.pdf]
+[least_squares_problems_1.pdf](least_squares_problems_1.pdf)
 
 ---
 
@@ -94,7 +94,7 @@ a first draft of the `SVD` decomposition.
 
 will be deleted in the future ... superseded by other notebooks of `SVD` and its applications.
 
-[least_squares_solution_and_svd.pdf]
+[least_squares_solution_and_svd.pdf](least_squares_solution_and_svd.pdf)
 
 ---
 
@@ -102,7 +102,7 @@ will be deleted in the future ... superseded by other notebooks of `SVD` and its
 
 more work on this notebook is required to make it useful.
 
-[lines_and_planes.pdf]
+[lines_and_planes.pdf](lines_and_planes.pdf]
 
 ---
 
@@ -116,7 +116,7 @@ The method is applied to
 
 2) an image represented by a matrix, the low rank approximation of the image show that only a moderate number of singular values are required to obtain a good approximation.
 
-[matrix_approximation_svd.pdf]
+[matrix_approximation_svd.pdf](matrix_approximation_svd.pdf)
 
 ---
 
@@ -134,7 +134,7 @@ the definition of the inverse of a square matrix.
 
 numerical examples of full inverse, left inverse and right inverse matrices.
 
-[matrix_inverse.pdf]
+[matrix_inverse.pdf](matrix_inverse.pdf)
 
 ---
 
@@ -152,7 +152,7 @@ Notebook reviews several aspects of matrix multiplication.
 
 numerical examples
 
-[matrix_multiplication_a_review.pdf]
+[matrix_multiplication_a_review.pdf](matrix_multiplication_a_review.pdf)
 
 ---
 
@@ -164,7 +164,7 @@ Construction of a orthonormal set of basis vectors from another set of basis vec
 
 `QR` factorisation of a matrix
 
-[orthogonalisation.pdf]
+[orthogonalisation.pdf](orthogonalisation.pdf)
 
 ---
 
@@ -174,7 +174,7 @@ partial derivatives
 
 gradient and directional derivatives
 
-[partial_derivative.pdf]
+[partial_derivative.pdf](partial_derivative.pdf)
 
 ---
 
@@ -184,7 +184,7 @@ Principal component analysis.
 
 derivation maximising the variance
 
-[pca_analysis.pdf]
+[pca_analysis.pdf]([ca_analysis.pdf)
 
 ---
 
@@ -194,7 +194,7 @@ An application of PCA.
 
 More work required ...
 
-[pca_example_ca_cities.pdf]
+[pca_example_ca_cities.pdf](pca_example_ca_cities.pdf)
 
 ---
 
@@ -210,7 +210,7 @@ More work required ...
 
 5) using `QR` factorisation to solve a matrix equation.
 
-[projections_and_orthogonalisation.pdf]
+[projections_and_orthogonalisation.pdf](projections_and_orthogonalisation.pdf)
 
 ---
 
@@ -218,7 +218,7 @@ More work required ...
 
 mostly identical to `least_squares_problems_1.ipynb`
 
-[quadraticForms.pdf]
+[quadraticForms.pdf](quadraticForms.pdf)
 
 ---
 
@@ -226,12 +226,12 @@ mostly identical to `least_squares_problems_1.ipynb`
 
 Derivation of the singular value decomposition `SVD`
 
-[singularvalue_decomposition_1.pdf]
+[singularvalue_decomposition_1.pdf](singularvalue_decomposition_1.pdf)
 
 ---
 
-## other notebooks
+## other notebooks in this directory ...
 
-require more work ...
+requires more work ...
 
 
